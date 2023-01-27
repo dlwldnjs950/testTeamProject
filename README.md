@@ -1,2 +1,0 @@
-# testTeamProject
-this is test
