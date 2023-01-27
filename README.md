@@ -1,2 +1,2 @@
 # testTeamProject
-this is teset
+this is test
